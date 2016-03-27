@@ -1,3 +1,3 @@
-# html-advanced
+# HTML ADVANCED
 
-http://cursor-education.github.io/html-advanced/
+http://cursor-education.github.io/html-advanced-lecture/
